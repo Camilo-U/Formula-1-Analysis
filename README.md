@@ -16,5 +16,8 @@
 
 > El procedimiento desarollado del proyecto se encuentra en un reporte pdf con el nombre de **PROYECTO PROGRAMACIÓN FINAL**
 
-> Los datos para el proyecto fueron extraidos de la pagina oficial de la Formula 1 (https://www.formula1.com/en.html). Adicional a esto, en la carpeta **Data** se encuentra un archivo CSV el cual corresponde a los resultados de todas las carreras para todos los equipos desde 1950 a 2020. Este archivo CSV fue extraido de _kaggle_ (https://www.kaggle.com/datasets/aadiltajani/fia-f1-19502019-data?select=race_wins_1950-2020.csv)
+> Los datos para el proyecto fueron extraidos de la pagina oficial de la Formula 1. Adicional a esto, en la carpeta **Data** se encuentra un archivo CSV el cual corresponde a los resultados de todas las carreras para todos los equipos desde 1950 a 2020. Este archivo CSV fue extraido de _kaggle_ 
 
+> Pagina oficial de la Formula 1: (https://www.formula1.com/en.html)
+
+> Kaggle: (https://www.kaggle.com/datasets/aadiltajani/fia-f1-19502019-data?select=race_wins_1950-2020.csv)
